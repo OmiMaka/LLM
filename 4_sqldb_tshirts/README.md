@@ -73,3 +73,6 @@ streamlit run main.py
 - requirements.txt: A list of required Python packages for the project.
 - few_shots.py: Contains few shot prompts
 - .env: Configuration file for storing your Google API key.
+
+
+- Shoutout to Codebasics on YouTube for the Tutorial
